@@ -19,6 +19,10 @@ namespace CodingChallenge.Data.Classes.Idiomas
                                             {"Cuadrados", "квадраты"},
                                             {"Círculo", "круг"},
                                             {"Círculos", "круги"},
+                                            {"Trapecio", "трапеция"},
+                                            {"Trapecios","трапеции"},
+                                            {"Rectangulo", "прямоугольник"},
+                                            {"Rectangulos", "прямоугольники"},
                                             {"Triángulo", "треугольник"},
                                             {"Triángulos", "треугольники"}
             };

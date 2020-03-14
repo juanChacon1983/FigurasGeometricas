@@ -19,6 +19,10 @@ namespace CodingChallenge.Data.Classes.Idiomas
                                             {"Cuadrados", "Squares"},
                                             {"Círculo", "Circle"},
                                             {"Círculos", "Circles"},
+                                            {"Trapecio", "Trapeze"},
+                                            {"Trapecios","Trapezoids"},
+                                            {"Rectangulo", "Rectangle"},
+                                            {"Rectangulos", "Rectangles"},
                                             {"Triángulo", "Triangle"},
                                             {"Triángulos", "Triangles"}
             };
